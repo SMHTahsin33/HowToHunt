@@ -97,6 +97,9 @@ Similar to Reflected Xss Or Stored Xss But you Dont get any reflection, but you 
 - Would not recommend manually looking for DOM XSS
 - Burp suite PRO scanner can find DOM XSS
 - Tool: https://github.com/dpnishant/ra2-dom-xss-scanner
+- Use Untrusted-Types Chrome Extension By Filedescriptor
+(https://www.youtube.com/watch?v=CNNCCgDkt5k) 
+
 
 *Video's*
 - https://www.youtube.com/watch?v=gBqzzhgHoYg
